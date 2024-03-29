@@ -1,2 +1,2 @@
 # learngit
-学习git的库
+学习git的库,本地库
